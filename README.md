@@ -1,4 +1,4 @@
 # webdev-learn
-Old project practiced with DesignCourse Youtube Channel
+Old project inspired by a video from DesignCourse
 
 ## Check it out live here:- https://rmtv.netlify.app/
